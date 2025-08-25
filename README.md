@@ -1,7 +1,3 @@
-Here's a **perfect GitHub README** tailored for your repository Vehicle-Service-Center-using-JAVA, designed to be professional, informative, and beginner-friendly:
-
----
-
 # 🚗 Vehicle Service Center Management System
 
 A **console-based Java application** for managing vehicle service center operations. This project is built using **core Java** and **basic collections** like `ArrayList`, `Queue`, `Set`, and `TreeSet`, avoiding all `Map`-based collections. It is ideal for learning object-oriented programming and collection handling in Java.
