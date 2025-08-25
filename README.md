@@ -29,14 +29,14 @@ A **console-based Java application** for managing vehicle service center operati
 ```
 Vehicle-Service-Center-using-JAVA/
 │
-├── src/
-│   ├── model/           # POJO classes for Customer, Vehicle, Service, etc.
-│   ├── service/         # Business logic and service handlers
-│   ├── util/            # Utility classes (e.g., input validation)
-│   └── main/            # Main class to run the application
+├── UI.java               # Handles user interactions and console UI
+├── Center.java           # Core logic for managing the service center
+├── Customer.java         # Represents customer details
+├── Mechanic.java         # Represents mechanic details
+├── ServiceRecord.java    # Stores completed service records
+├── ServiceRequest.java   # Handles incoming service requests
 │
-├── README.md
-└── LICENSE
+└── README.md             # Project documentation
 ```
 
 ---
